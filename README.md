@@ -14,7 +14,9 @@ Web development and Game development.
 
 🛠This is my latest project:
 
-D:\Hackathon 2\Nox.html
+http://127.0.0.1:5500/Nox.html :
+
+This is a restaurant website with links to different pages along with animated buttons.
 
 📫And this is my contact information.:
 
